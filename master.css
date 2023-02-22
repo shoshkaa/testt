@@ -1,0 +1,50 @@
+body{
+	background-image: url('HD wallpaper_ Anime, Your Name_.png');
+	background-size:cover;
+}
+.p{
+	font-size:150px;
+	color:white;
+	text-align:center;
+}
+.p1{
+	font-size:25px;
+	color:white;
+	text-align:center;
+}
+.p1{
+	position: absolute;
+	top: 300px;
+	right: 550px;
+}
+.pp2{
+	position: absolute;
+	top: 400px;
+	right: 700px;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 1px 30px;
+}
+.pp2{
+	border-style:line;
+	border-color: white;
+	background-color: white;
+	
+}
+.p3{
+	position: absolute;
+	top: 400px;
+	right: 500px;
+	color:white;
+	font-size: 20px;
+	font-weight: bold;
+	padding:1px 30px;
+}
+.p3{
+	border-style:solid;
+	border-color: white;
+	border-width: 2px;
+	background-color: none;
+
+}
